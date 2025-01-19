@@ -63,20 +63,14 @@
 //     arr[i]=Convert.ToInt32(Console.ReadLine());
 // }
 // int res = Convert.ToInt32(Console.ReadLine());
-
-//  for(int j =0 ; j<=n;j++){
-//    if(arr[j]+arr[j+1]==res){
-//    System.Console.WriteLine(arr[j] +" "+arr[j+1] );
-//    }
-// }  
 //  for(int i = 0 ; i<n;i++){
-//     for(int j = n-1 ; j>0;j--){
-//    if(arr[j+1]+arr[j]==res){
-//    System.Console.WriteLine(arr[j] +" "+arr[j] );
+//     for(int j = 0;j<i;j++){
+//    if(arr[i]+arr[j+1]==res){
+//    System.Console.WriteLine(arr[i] +" "+arr[j+1] );
 //    }
 // }  
 //  }
-////////////////task7////////////
+//////////////task7////////////
 // string n =Console.ReadLine();
 // int vowels=0;
 // int con=0;

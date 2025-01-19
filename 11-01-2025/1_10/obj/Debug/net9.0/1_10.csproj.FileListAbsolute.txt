@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\С#-Exam\11-01-2025\1_10\obj\Debug\net9.0\refint\1_10.dll
 C:\Users\DELL\Desktop\С#-Exam\11-01-2025\1_10\obj\Debug\net9.0\1_10.pdb
 C:\Users\DELL\Desktop\С#-Exam\11-01-2025\1_10\obj\Debug\net9.0\1_10.genruntimeconfig.cache
 C:\Users\DELL\Desktop\С#-Exam\11-01-2025\1_10\obj\Debug\net9.0\ref\1_10.dll
+C:\Users\DELL\Desktop\С#-Exam\11-01-2025\1_10\obj\Debug\net9.0\1_10.sourcelink.json
