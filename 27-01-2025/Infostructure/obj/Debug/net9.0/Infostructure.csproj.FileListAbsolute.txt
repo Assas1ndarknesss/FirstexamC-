@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\bin\Debug\net9.0\Infostructure.deps.json
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\bin\Debug\net9.0\Infostructure.dll
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\bin\Debug\net9.0\Infostructure.pdb
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\Infostructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\Infostructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\Infostructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\Infostructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\Infostructure.sourcelink.json
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\Infostructure.dll
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\refint\Infostructure.dll
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\Infostructure.pdb
+C:\Users\DELL\Desktop\С#-Exam\27-01-2025\Infostructure\obj\Debug\net9.0\ref\Infostructure.dll
